@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vorn aka Peter! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Vorn aka Peter! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/vorn-koy-959aa5279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
